@@ -1,7 +1,7 @@
 ### Links
 
-- Solution URL: [https://smgy94.github.io/front-end-mentor-projects/order-summary-component-main/]
-- Live Site URL: [https://github.com/Smgy94/front-end-mentor-projects/tree/main/order-summary-component-main]
+- Solution URL: [https://www.frontendmentor.io/solutions/colour-changing-order-summary-component-pWAjl9a81b]
+- Live Site URL: [https://smgy94.github.io/frontend-mentor-order-summary-component-main/]
 
 # Frontend Mentor - Order summary card solution
 
