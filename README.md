@@ -1,7 +1,7 @@
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/colour-changing-order-summary-component-pWAjl9a81b]
-- Live Site URL: [https://smgy94.github.io/frontend-mentor-order-summary-component/]
+- Live Site URL: [https://user9511.github.io/frontend-mentor-order-summary-component/]
 
 # Frontend Mentor - Order summary card solution
 
